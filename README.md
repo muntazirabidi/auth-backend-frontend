@@ -107,3 +107,8 @@ The frontend is built using React and connects to the Django backend to provide 
 
 If you wish to contribute to this project, please fork the repository and create a pull request with your changes. Ensure that you follow the coding standards and include appropriate tests for your changes.
 
+## References
+
+- The project setup and implementation were inspired by the tutorial by Tech with Tim. You can watch the tutorial on [YouTube](https://www.youtube.com/watch?v=c-QsfbznSXI).
+
+
